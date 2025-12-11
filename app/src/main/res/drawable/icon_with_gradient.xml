@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <gradient
+                android:type="radial"
+                android:gradientRadius="80%"
+                android:centerX="0.5"
+                android:centerY="0.5"
+                android:startColor="#FF82E9DE"
+                android:centerColor="#FF4DB6AC"
+                android:endColor="#FF00867D" />
+            <size android:width="120dp" android:height="120dp" />
+        </shape>
+    </item>
+
+    <item
+        android:drawable="@drawable/ic_puzzle"
+        android:width="80dp"
+        android:height="80dp"
+        android:gravity="center"
+        android:left="8dp"
+        android:tint="#FFFAFAFA"/>
+</layer-list>

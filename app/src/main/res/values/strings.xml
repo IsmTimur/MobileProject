@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Пятнашки</string>
+    <string name="play">Играть</string>
+    <string name="leaderboard">Таблица рекордов</string>
+    <string name="exit">Выход</string>
+    <string name="select_difficulty">Выберите сложность</string>
+    <string name="back">Назад</string>
+    <string name="puzzle_icon">Иконка головоломки</string>
+    <string name="shuffle">Перемешать</string>
+    <string name="pause">Пауза</string>
+    <string name="resume">Продолжить</string>
+    <string name="moves">Ходы</string>
+    <string name="time">Время</string>
+    <string name="question_icon">Question icon</string>
+    <string name="game_over">Вы проиграли!</string>
+    <string name="time_is_up">Время вышло!</string>
+    <string name="restart">ПЕРЕЗАПУСТИТЬ</string>
+    <string name="congratulations">Поздравляем!</string>
+    <string name="enter_your_name">Введите ваше имя</string>
+    <string name="save_result">СОХРАНИТЬ РЕЗУЛЬТАТ</string>
+    <string name="your_name">Ваше имя:</string>
+    <string name="player">Игрок</string>
+    <string-array name="sort_by_options">
+        <item>Лучшие результаты</item>
+        <item>По количеству ходов</item>
+        <item>По времени</item>
+    </string-array>
+
+    <string-array name="sort_order_options">
+        <item>По возрастанию</item>
+        <item>По убыванию</item>
+    </string-array>
+
+    <string-array name="filter_size_options">
+        <item>Все размеры</item>
+        <item>Только 3x3</item>
+        <item>Только 4x4</item>
+        <item>Только 5x5</item>
+    </string-array>
+</resources>
